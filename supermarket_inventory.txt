@@ -1,0 +1,9 @@
+1233 Banana 1.5
+1234 Apple 1
+3211 Peanut_Butter 2.5
+6511 Bagel 1
+6510 Bread 2
+6516 Muffin 1.5
+4068 Sliced_Turkey 4
+4064 Sliced_Ham 4
+4065 Cheese 3
